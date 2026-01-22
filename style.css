@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: "custom"; 
+  src: url("https://raw.githubusercontent.com/Asif-Tanvir-2006/fonts/main/font.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+    color: white;
+    background-color: white;
+    font-family: "custom";
+    height: 100vh;
+    width: 100vw;
+}

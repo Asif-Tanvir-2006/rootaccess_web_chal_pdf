@@ -1,0 +1,1 @@
+None of the pictures given here, in any way, intend to hurt the sentiments of people. This must me taken lightly as a playground for a ctf challenge, and in no way, represents any political motives. Ignore the history of these people and try getting the flag, just like you ignore commit histories in your github repos before doing git push --force.
